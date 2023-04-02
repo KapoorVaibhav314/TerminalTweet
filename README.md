@@ -13,7 +13,7 @@ Requirements:
 -> rich library 
 
 How to use:
---> Install the required libraries using the command below:
+--> Install the required libraries using the command:
              pip install feedparser httpx rich
              
 --> Clone or download the fetch_tweets.py script
