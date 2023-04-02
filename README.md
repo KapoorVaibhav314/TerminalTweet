@@ -2,7 +2,7 @@
 
 Allows the user to fetch tweets from the RSS feed of multiple Twitter profiles and displays them in a table format in the terminal. 
 
-WHy did I create this?
+Why did I create this?
 
 I wanted to read tweets without opening the twitter app, right from my terminal (Terminal Maxis). 
 
